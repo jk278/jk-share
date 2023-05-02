@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Auto Landscape Video Player
 // @version      1.0
-// @description  Automatically rotate screen to landscape mode when playing YouTube videos in fullscreen on mobile devices with aspect ratio greater than 1:1, using Fullscreen API and screen orientation lock feature of the browser (tested on Firefox for Android).
+// @description  一个适配视频全屏播放横竖屏的脚本。Automatically rotate screen to landscape mode when playing YouTube videos in fullscreen on mobile devices with aspect ratio greater than 1:1, using Fullscreen API and screen orientation lock feature of the browser (tested on Firefox for Android).
 // @author       jk278
 // @match        https://m.youtube.com/watch?v=*
 // @grant        none
